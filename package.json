@@ -71,8 +71,8 @@
     "is": "^3.0.1",
     "lodash.merge": "^4.6.0",
     "lodash.snakecase": "^4.1.1",
-    "protobufjs": "^6.8.1",
-    "uuid": "^3.1.0"
+    "protobufjs": "^8.0.3",
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@google-cloud/nodejs-repo-tools": "^3.0.0",
